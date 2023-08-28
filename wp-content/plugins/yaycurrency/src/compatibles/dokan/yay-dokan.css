@@ -1,0 +1,43 @@
+strong.yay-dokan-price-wrapper {
+    margin: 20px 5px;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.yay-dokan-request-refund-wrapper.yay-dokan-show-alert #yay-dokan-request-refund-popup {
+    z-index: 999;
+    border-radius: 3px;
+    border-bottom: 3px solid rgb(240, 80, 37);
+    overflow: hidden;
+    max-width: 690px;
+    display: block;
+    height: 171px;
+}
+
+.yay-dokan-request-refund-wrapper.yay-dokan-show-alert #yay-dokan-request-refund-popup .yay-dokan-request-refund-content {
+    height: auto;
+}
+
+.yay-dokan-request-refund-wrapper.yay-dokan-show-alert #yay-dokan-request-refund-popup .yay-dokan-request-refund-content .iziModal-content {
+    padding: 0px;
+}
+
+.yay-dokan-request-refund-wrapper.yay-dokan-show-alert .yay-dokan-request-refund-header {
+    background: rgb(240, 80, 37);
+    padding-right: 40px;
+}
+
+.yay-dokan-request-refund-wrapper.yay-dokan-show-alert #dokan-request-refund-popup-form .yay-dokan-request-refund-alert-message {
+    margin: 0 5px;
+}
+
+.yay-dokan-request-refund-wrapper.yay-dokan-show-alert .yay-dokan-request-refund-overlay {
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 997;
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}

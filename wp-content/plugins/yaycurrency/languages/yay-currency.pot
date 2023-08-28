@@ -1,0 +1,323 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YayCurrency\n"
+"POT-Creation-Date: 2023-03-15 14:02+0700\n"
+"PO-Revision-Date: 2023-03-15 14:02+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: yay-currency.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. translators: %s: Woocommerce link
+#: build/yaycurrency-pro-edd/includes/Engine/ActDeact.php:18
+#: includes/Engine/ActDeact.php:18
+#, php-format
+msgid ""
+"YayCurrency is enabled but not effective. It requires %s in order to work"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/Appearance/Widget.php:63
+#: includes/Engine/Appearance/Widget.php:63
+msgid "Currency Switcher"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:36
+#: includes/Engine/BEPages/Settings.php:36
+msgid "Currencies Manage"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:37
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:42
+#: includes/Engine/BEPages/Settings.php:37
+#: includes/Engine/BEPages/Settings.php:42
+msgid "Currency Manage"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:74
+#: includes/Engine/BEPages/Settings.php:160
+msgid "Configure multi-currency"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:74
+#: includes/Engine/BEPages/Settings.php:160
+msgid "The following options affect how prices are displayed on the frontend"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:84
+#: includes/Engine/BEPages/Settings.php:137
+msgid "Settings"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:95
+#: includes/Engine/BEPages/Settings.php:148
+msgid "Docs"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:96
+#: includes/Engine/BEPages/Settings.php:149
+msgid "Visit community forums"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:96
+#: includes/Engine/BEPages/Settings.php:149
+msgid "Support"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:104
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/Settings.php:105
+#: includes/Engine/BEPages/Settings.php:71
+#: includes/Engine/BEPages/Settings.php:72
+msgid "YayCurrency"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:110
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:110
+msgid "Top Categories - Items Sold"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:113
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:113
+msgid "Category"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:116
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:188
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:116
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:188
+msgid "Items Sold"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:119
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:191
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:119
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:191
+msgid "Net Sales"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:182
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:182
+msgid "Top Products - Items Sold"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:185
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:185
+msgid "Product"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:254
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:254
+msgid "Top Coupons - Number of Orders"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:257
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:257
+msgid "Coupon Code"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:260
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:331
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:260
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:331
+msgid "Orders"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:263
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:263
+msgid "Amount Discounted"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:325
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:325
+msgid "Top Customers - Total Spend"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:328
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:328
+msgid "Customer Name"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:334
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:334
+msgid "Total Spend"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterAnalytics.php:463
+#: includes/Engine/BEPages/WooCommerceFilterAnalytics.php:463
+msgid "("
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/BEPages/WooCommerceFilterReport.php:37
+#: includes/Engine/BEPages/WooCommerceFilterReport.php:37
+msgid "Sales by currency:"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/Compatibles/WooCommerceSubscriptions.php:143
+#: includes/Engine/Compatibles/WooCommerceSubscriptions.php:137
+msgid " and a "
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/Compatibles/WooCommerceSubscriptions.php:162
+#: includes/Engine/Compatibles/WooCommerceSubscriptions.php:147
+msgid "From: "
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/Compatibles/YITHWooCommerceAddOnsExtraPremiumOptions.php:164
+msgid "Option"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:408
+#: includes/Engine/FEPages/WooCommerceCurrency.php:308
+msgid "Sorry! This Paypal payment method for "
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:554
+#: includes/Engine/FEPages/WooCommerceCurrency.php:438
+msgid "Refund"
+msgstr ""
+
+#. translators: %s: method
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:666
+#: includes/Engine/FEPages/WooCommerceCurrency.php:553
+#, php-format
+msgid "via %s"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:670
+#: includes/Engine/FEPages/WooCommerceCurrency.php:557
+msgid "Free!"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:892
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:895
+#: includes/Engine/FEPages/WooCommerceCurrency.php:879
+#: includes/Engine/FEPages/WooCommerceCurrency.php:882
+msgid "The current payment method for "
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:892
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:895
+#: includes/Engine/FEPages/WooCommerceCurrency.php:879
+#: includes/Engine/FEPages/WooCommerceCurrency.php:882
+msgid " is not supported in your location. "
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:892
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:895
+#: includes/Engine/FEPages/WooCommerceCurrency.php:879
+#: includes/Engine/FEPages/WooCommerceCurrency.php:882
+msgid "So your payment will be recorded in "
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:893
+#: includes/Engine/FEPages/WooCommerceCurrency.php:880
+msgid ""
+"Are you the admin? You can change the checkout options for payment methods "
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:893
+#: includes/Engine/FEPages/WooCommerceCurrency.php:880
+msgid "here"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/FEPages/WooCommerceCurrency.php:893
+#: includes/Engine/FEPages/WooCommerceCurrency.php:880
+msgid "(Only logged in admin can see this.)"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/ScheduleJobs.php:34
+msgid "By minutes"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/ScheduleJobs.php:40
+msgid "By hours"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Engine/ScheduleJobs.php:46
+msgid "By days"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Fallback.php:11 includes/Fallback.php:11
+msgid ""
+"It looks like you have another YayCurrency version installed, please delete "
+"it before activating this new version. All of the settings and data are "
+"still preserved."
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/Fallback.php:12 includes/Fallback.php:12
+msgid "Read more details."
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/License/EDD_SL_Plugin_Updater.php:271
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/License/EDD_SL_Plugin_Updater.php:279
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/License/EDD_SL_Plugin_Updater.php:536
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/License/EDD_SL_Plugin_Updater.php:536
+msgid "Error"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/templates/appearance/menuItem.php:9
+#: includes/templates/appearance/menuItem.php:9
+msgid "YayCurrency Switcher"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/templates/custom-fixed-prices/simple-product.php:10
+#: build/yaycurrency-pro-edd/includes/templates/custom-fixed-prices/variable-product.php:10
+msgid "Fixed price for each currency"
+msgstr ""
+
+#: build/yaycurrency-pro-edd/includes/templates/custom-fixed-prices/simple-product.php:13
+#: build/yaycurrency-pro-edd/includes/templates/custom-fixed-prices/variable-product.php:13
+msgid ""
+"You can manually set fixed price for each currency. Leave blank to get the "
+"rate automatically."
+msgstr ""
+
+#: build/yaycurrency-pro-edd/src/analytics.js:19 src/analytics.js:18
+msgid "Currency"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://yaycommerce.com/yaycurrency-woocommerce-multi-currency-switcher/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Provide multiple currencies for WooCommerce. Let your potential customers "
+"switch currency on the go."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YayCommerce"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yaycommerce.com"
+msgstr ""

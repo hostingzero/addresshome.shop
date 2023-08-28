@@ -1,0 +1,9 @@
+/* Dialog */
+.menu-img-block { width: 130px; margin: 3px; position: relative; margin-top: 25px; }
+.menu-actions   { position: absolute; top: -17px; right: 0px; width: 100%; text-align: right; }
+.menu-actions li    { display: inline-block;}
+.menu-actions li a  { display: inline-block; }
+.menu-actions li a img { max-width: 100%; max-height: 100%; }
+.close          { color: #24292d; font: 30px/100% arial, sans-serif; cursor: pointer; top: -14px; }
+.edit-icon 		{ background: url('../images/edit-icon.svg') no-repeat center center/cover ; display: block; height: 30px; }
+.delete-icon 		{ background: url('../images/delete-icon.svg') no-repeat center center/cover ; display: block; height: 30px; }

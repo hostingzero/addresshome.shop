@@ -1,0 +1,4 @@
+.wp-menu-img img 		     { display: flex; display: -webkit-flex; align-items:center; -webkit-align-items:center; }
+.wp-menu-img img             { display: inline-block;}
+.wp-menu-img-before img      { margin-right: 10px; }
+.wp-menu-img-after img       { margin-left: 10px; }
