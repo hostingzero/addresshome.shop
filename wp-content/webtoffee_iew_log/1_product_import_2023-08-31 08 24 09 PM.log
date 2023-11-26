@@ -1,0 +1,389 @@
+08-31-2023 @ 20:24:09 - ---[ New import started at 2023-08-31 20:24:09 ] PHP Memory: 2 GB, WP Memory: 40 MB
+08-31-2023 @ 20:24:09 - Preparing for import.
+08-31-2023 @ 20:24:09 - Row :1 - Parsing item.
+08-31-2023 @ 20:24:09 - Importing as new product ID:1280
+08-31-2023 @ 20:24:09 - Row :1 - Processing item.
+08-31-2023 @ 20:24:09 - Found simple product object. ID:1280
+08-31-2023 @ 20:24:09 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/91thS2CDVZL._AC_SL1500_360x.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1281
+08-31-2023 @ 20:24:09 - Setting Gallery Images.
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41PvJwabuQL_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1282
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/411W0D7ZiML_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1283
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41QwnQpHutL_697ff551-8b57-45ff-9a75-c659de89452f_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1284
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31OeAzTwxEL_6d2acf8a-ed5c-48cb-8c18-c106c36ad098_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1285
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/412WIWkRnkL_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1286
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/91thS2CDVZL._AC_SL1500_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1287
+08-31-2023 @ 20:24:09 - Row :1 - Product imported successfully.
+08-31-2023 @ 20:24:09 - Row :2 - Parsing item.
+08-31-2023 @ 20:24:09 - Row :2 - Parsing failed. Reason: Importing Product(ID) conflicts with an existing post. ID: 17
+08-31-2023 @ 20:24:09 - Row :3 - Parsing item.
+08-31-2023 @ 20:24:09 - Importing as new product ID:1288
+08-31-2023 @ 20:24:09 - Row :3 - Processing item.
+08-31-2023 @ 20:24:09 - Found simple product object. ID:1288
+08-31-2023 @ 20:24:09 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/RoundArmsSofa_360x.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1289
+08-31-2023 @ 20:24:09 - Setting Gallery Images.
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/81Tyd5yUyML._AC_SL1500_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1290
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/61wtzq8dYcL._AC_SL1436_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1291
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/90RoundArmsSofa22_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1292
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/90RoundArmsSofa_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1293
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/RoundArmsSofa2_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1294
+08-31-2023 @ 20:24:09 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/RoundArmsSofa_1800x1800.jpg
+08-31-2023 @ 20:24:09 - Attachment ID:1295
+08-31-2023 @ 20:24:10 - Row :3 - Product imported successfully.
+08-31-2023 @ 20:24:10 - Row :4 - Parsing item.
+08-31-2023 @ 20:24:10 - Importing as new product ID:1296
+08-31-2023 @ 20:24:10 - Row :4 - Processing item.
+08-31-2023 @ 20:24:10 - Found simple product object. ID:1296
+08-31-2023 @ 20:24:10 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/91eupqpeVqL._AC_SL1500_360x.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1297
+08-31-2023 @ 20:24:10 - Setting Gallery Images.
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41Z855osLTL_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1298
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41h332YJnUL_8f8f91c0-6a10-4ff2-93c5-a19a6865fa46_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1299
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41VO0fcPQ9L_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1300
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41x5M7X2JOL_74e790a8-afae-4066-9dcf-796d7809c021_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1301
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41JoMCleFwL_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1302
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/91eupqpeVqL._AC_SL1500_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1303
+08-31-2023 @ 20:24:10 - Row :4 - Product imported successfully.
+08-31-2023 @ 20:24:10 - Row :5 - Parsing item.
+08-31-2023 @ 20:24:10 - Importing as new product ID:64
+08-31-2023 @ 20:24:10 - Row :5 - Processing item.
+08-31-2023 @ 20:24:10 - Found simple product object. ID:64
+08-31-2023 @ 20:24:10 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ISTIKBALMultifunctionalFurnitureLivingRoomSofaBedFantasyCollection_ValenciaGrey_360x.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1304
+08-31-2023 @ 20:24:10 - Setting Gallery Images.
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41073x_juEL_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1305
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/4138AEHwCDL_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1306
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41-9CUMpd8L_2619b112-6ac5-4844-8cbe-d5cb7a5713f3_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1307
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31Xh9_gAXEL_4af4a36b-93c1-4eaa-bc93-30875471ab96_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1308
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/415ZwFVlwEL_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1309
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ISTIKBALMultifunctionalFurnitureLivingRoomSofaBedFantasyCollection_ValenciaGrey_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1310
+08-31-2023 @ 20:24:10 - Row :5 - Product imported successfully.
+08-31-2023 @ 20:24:10 - Row :6 - Parsing item.
+08-31-2023 @ 20:24:10 - Importing as new product ID:74
+08-31-2023 @ 20:24:10 - Row :6 - Processing item.
+08-31-2023 @ 20:24:10 - Found simple product object. ID:74
+08-31-2023 @ 20:24:10 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/71y2k-lEPJL._AC_SL1500_360x.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1311
+08-31-2023 @ 20:24:10 - Setting Gallery Images.
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31IsU6tdicL_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1312
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31KWXrXTDGL_1800x1800.jpg
+08-31-2023 @ 20:24:10 - Attachment ID:1313
+08-31-2023 @ 20:24:10 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41U6TNVSBFL_4cd5d281-a5ad-4e74-a96f-592f7cb7ce5c_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1314
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41Pk_7LAmhL_dd8def26-225f-4fd8-88b7-c8db860f32ad_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1315
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31S9NHXpmrL_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1316
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/71y2k-lEPJL._AC_SL1500_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1317
+08-31-2023 @ 20:24:11 - Row :6 - Product imported successfully.
+08-31-2023 @ 20:24:11 - Row :7 - Parsing item.
+08-31-2023 @ 20:24:11 - Importing as new product ID:82
+08-31-2023 @ 20:24:11 - Row :7 - Processing item.
+08-31-2023 @ 20:24:11 - Found simple product object. ID:82
+08-31-2023 @ 20:24:11 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/51iL_EU5moL._AC_SL1000_360x.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1318
+08-31-2023 @ 20:24:11 - Setting Gallery Images.
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/310I5eO5hLL_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1319
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31S8uq_or1L_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1320
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41U6TNVSBFL_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1321
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41Pk_7LAmhL_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1322
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/317rq9daR9L_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1323
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/51iL_EU5moL._AC_SL1000_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1324
+08-31-2023 @ 20:24:11 - Row :7 - Product imported successfully.
+08-31-2023 @ 20:24:11 - Row :8 - Parsing item.
+08-31-2023 @ 20:24:11 - Importing as new product ID:91
+08-31-2023 @ 20:24:11 - Row :8 - Processing item.
+08-31-2023 @ 20:24:11 - Found simple product object. ID:91
+08-31-2023 @ 20:24:11 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ISTIKBALMultifunctionalFurnitureLivingRoomSofaBedFantasyCollection_360x.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1325
+08-31-2023 @ 20:24:11 - Setting Gallery Images.
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41s2n1FhjZL_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1326
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31Xh9_gAXEL_cc717302-ae66-4515-884d-e239e332eb20_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1327
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41-9CUMpd8L_d31574b7-c492-4547-929f-e4d7809fc62d_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1328
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/417QbJ_3UlL_1800x1800.jpg
+08-31-2023 @ 20:24:11 - Attachment ID:1329
+08-31-2023 @ 20:24:11 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41qQDC1Jm8L_1800x1800.jpg
+08-31-2023 @ 20:24:12 - Attachment ID:1330
+08-31-2023 @ 20:24:12 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ISTIKBALMultifunctionalFurnitureLivingRoomSofaBedFantasyCollection_1800x1800.jpg
+08-31-2023 @ 20:24:12 - Attachment ID:1331
+08-31-2023 @ 20:24:12 - Row :8 - Product imported successfully.
+08-31-2023 @ 20:24:12 - Row :9 - Parsing item.
+08-31-2023 @ 20:24:12 - Importing as new product ID:99
+08-31-2023 @ 20:24:12 - Row :9 - Processing item.
+08-31-2023 @ 20:24:12 - Found simple product object. ID:99
+08-31-2023 @ 20:24:12 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/61lIGSBoGTL._AC_SL1436_360x.jpg
+08-31-2023 @ 20:24:12 - Attachment ID:1332
+08-31-2023 @ 20:24:12 - Setting Gallery Images.
+08-31-2023 @ 20:24:12 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/61lIGSBoGTL._AC_SL1436_1800x1800-1.jpg
+08-31-2023 @ 20:24:12 - Attachment ID:1333
+08-31-2023 @ 20:24:12 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/416dgwFZqjL_f596edfb-86f6-4251-b933-319bbf29cb6e_1800x1800.jpg
+08-31-2023 @ 20:24:12 - Attachment ID:1334
+08-31-2023 @ 20:24:12 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31-gt29qWRL_1800x1800.jpg
+08-31-2023 @ 20:24:12 - Attachment ID:1335
+08-31-2023 @ 20:24:12 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41KlO0R3hiL_0ecc9b38-531b-4a00-b465-8845176d0469_1800x1800.jpg
+08-31-2023 @ 20:24:12 - Attachment ID:1336
+08-31-2023 @ 20:24:12 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31lsTFrXOlL_1800x1800.jpg
+08-31-2023 @ 20:24:12 - Attachment ID:1337
+08-31-2023 @ 20:24:12 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41zng6oWqNL_1800x1800.jpg
+08-31-2023 @ 20:24:12 - Attachment ID:1338
+08-31-2023 @ 20:24:12 - Row :9 - Product imported successfully.
+08-31-2023 @ 20:24:12 - Row :10 - Parsing item.
+08-31-2023 @ 20:24:12 - Row :10 - Parsing failed. Reason: Importing Product(ID) conflicts with an existing post. ID: 262
+08-31-2023 @ 20:24:14 - Preparing for import.
+08-31-2023 @ 20:24:14 - Row :11 - Parsing item.
+08-31-2023 @ 20:24:14 - Importing as new product ID:1339
+08-31-2023 @ 20:24:14 - Row :11 - Processing item.
+08-31-2023 @ 20:24:14 - Found simple product object. ID:1339
+08-31-2023 @ 20:24:14 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/IstikbalMultifunctionalFurnitureLivingRoomSetKobeCollection_GloryBlack_Sofa_360x.jpg
+08-31-2023 @ 20:24:14 - Attachment ID:1340
+08-31-2023 @ 20:24:14 - Setting Gallery Images.
+08-31-2023 @ 20:24:14 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41uVBcC_1jL_5f6d79d1-1a05-47c8-82b2-b62a94854f0f_1800x1800.jpg
+08-31-2023 @ 20:24:14 - Attachment ID:1341
+08-31-2023 @ 20:24:14 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41-ABu49axL_0f4df995-afef-4ab3-94a1-a3b12d835422_1800x1800.jpg
+08-31-2023 @ 20:24:14 - Attachment ID:1342
+08-31-2023 @ 20:24:14 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31YTYUCB88L_1800x1800.jpg
+08-31-2023 @ 20:24:14 - Attachment ID:1343
+08-31-2023 @ 20:24:14 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31ZUkaFRaiL_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1344
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/317-JsWKa_L_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1345
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/IstikbalMultifunctionalFurnitureLivingRoomSetKobeCollection_GloryBlack_Sofa_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1346
+08-31-2023 @ 20:24:15 - Row :11 - Product imported successfully.
+08-31-2023 @ 20:24:15 - Row :12 - Parsing item.
+08-31-2023 @ 20:24:15 - Importing as new product ID:1347
+08-31-2023 @ 20:24:15 - Row :12 - Processing item.
+08-31-2023 @ 20:24:15 - Found simple product object. ID:1347
+08-31-2023 @ 20:24:15 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/81zKgHj92aL._AC_SL1500_360x.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1348
+08-31-2023 @ 20:24:15 - Setting Gallery Images.
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31K9BKLUW-L_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1349
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41m4LwUlZmL_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1350
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41yJBcZpaTL_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1351
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31hHbTZR-iL_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1352
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31LEYtTbBhL_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1353
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/81zKgHj92aL._AC_SL1500_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1354
+08-31-2023 @ 20:24:15 - Row :12 - Product imported successfully.
+08-31-2023 @ 20:24:15 - Row :13 - Parsing item.
+08-31-2023 @ 20:24:15 - Importing as new product ID:286
+08-31-2023 @ 20:24:15 - Row :13 - Processing item.
+08-31-2023 @ 20:24:15 - Found simple product object. ID:286
+08-31-2023 @ 20:24:15 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/71nBHU5dg4L._AC_SL1417__1_360x.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1355
+08-31-2023 @ 20:24:15 - Setting Gallery Images.
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41OAKIr1nQL_1ae2e78c-9f7c-4ab5-ab20-02cf6373884d_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1356
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41bgO9GN20L_b347ad13-9fac-45a7-87e7-943ab9399978_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1357
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31sLUEgtLDL_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1358
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31zfVcPMvhL_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1359
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41Cs8exzQnL_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1360
+08-31-2023 @ 20:24:15 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/71nBHU5dg4L._AC_SL1417__1_1800x1800.jpg
+08-31-2023 @ 20:24:15 - Attachment ID:1361
+08-31-2023 @ 20:24:16 - Row :13 - Product imported successfully.
+08-31-2023 @ 20:24:16 - Row :14 - Parsing item.
+08-31-2023 @ 20:24:16 - Importing as new product ID:1362
+08-31-2023 @ 20:24:16 - Row :14 - Processing item.
+08-31-2023 @ 20:24:16 - Found simple product object. ID:1362
+08-31-2023 @ 20:24:16 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/81wzB7zerhL._AC_SL1500_360x.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1363
+08-31-2023 @ 20:24:16 - Setting Gallery Images.
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/41CgZW2hOdL_b938aecf-31dd-4644-b259-45011597eb1d_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1364
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31tSbHybyaL_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1365
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/319U4OzDrVL_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1366
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/411WOi3PDmL_9f6d4be7-73c3-4674-b525-1272e78bf347_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1367
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/31IP10-vzJL_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1368
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/81wzB7zerhL._AC_SL1500_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1369
+08-31-2023 @ 20:24:16 - Row :14 - Product imported successfully.
+08-31-2023 @ 20:24:16 - Row :15 - Parsing item.
+08-31-2023 @ 20:24:16 - Row :15 - Parsing failed. Reason: Importing Product(ID) conflicts with an existing post. ID: 302
+08-31-2023 @ 20:24:16 - Row :16 - Parsing item.
+08-31-2023 @ 20:24:16 - Importing as new product ID:1370
+08-31-2023 @ 20:24:16 - Row :16 - Processing item.
+08-31-2023 @ 20:24:16 - Found simple product object. ID:1370
+08-31-2023 @ 20:24:16 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Luonto_Monika_King_Oliver173_Close_Room_Medium_bdfdadf9-5195-47a4-ab11-e4c3a4cfc633_1800x1800-1.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1371
+08-31-2023 @ 20:24:16 - Setting Gallery Images.
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Monika_King_Oliver173_M_IMG_4335_1280pxcopy_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1372
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Monika_King_Oliver173_M_IMG_4334_1280pxcopy_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1373
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Monika_King_Oliver173_M_IMG_4333_1280pxcopy_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1374
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Luonto_Monika_Queen_Loule630_Open_HighRes_Medium_cd0b2178-c0e6-4776-8685-fd4b940f4e75_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1375
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Luonto_Monika_Queen_Loule630_Close_HighRe_Medium_acf218f7-3780-4b9a-9413-28e5c58d43c0_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1376
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Luonto_Monika_King_Oliver173_Opened_Room_Medium_f3c5cb91-a25c-40f8-a11a-cfdfbd7b5e35_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1377
+08-31-2023 @ 20:24:16 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Luonto_Monika_King_Oliver173_Close_Room_Medium_bdfdadf9-5195-47a4-ab11-e4c3a4cfc633_1800x1800.jpg
+08-31-2023 @ 20:24:16 - Attachment ID:1378
+08-31-2023 @ 20:24:16 - Row :16 - Product imported successfully.
+08-31-2023 @ 20:24:16 - Row :17 - Parsing item.
+08-31-2023 @ 20:24:16 - Importing as new product ID:1379
+08-31-2023 @ 20:24:16 - Row :17 - Processing item.
+08-31-2023 @ 20:24:16 - Found simple product object. ID:1379
+08-31-2023 @ 20:24:16 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/DeckerOrangeItalianLeatherSectionalSofa-image-5_1800x1800.png
+08-31-2023 @ 20:24:17 - Attachment ID:1380
+08-31-2023 @ 20:24:17 - Setting Gallery Images.
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/DeckerOrangeItalianLeatherSectionalSofa-image-9_1800x1800.png
+08-31-2023 @ 20:24:17 - Attachment ID:1381
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/DeckerOrangeItalianLeatherSectionalSofa-image-6_1800x1800.png
+08-31-2023 @ 20:24:17 - Attachment ID:1382
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/DeckerOrangeItalianLeatherSectionalSofa-image-4_1800x1800.png
+08-31-2023 @ 20:24:17 - Attachment ID:1383
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/DeckerOrangeItalianLeatherSectionalSofa-image-2_1800x1800.png
+08-31-2023 @ 20:24:17 - Attachment ID:1384
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/DeckerOrangeItalianLeatherSectionalSofa-image-3_1800x1800.png
+08-31-2023 @ 20:24:17 - Attachment ID:1385
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/DeckerOrangeItalianLeatherSectionalSofa-image-1_1800x1800.png
+08-31-2023 @ 20:24:17 - Attachment ID:1386
+08-31-2023 @ 20:24:17 - Row :17 - Product imported successfully.
+08-31-2023 @ 20:24:17 - Row :18 - Parsing item.
+08-31-2023 @ 20:24:17 - Importing as new product ID:1387
+08-31-2023 @ 20:24:17 - Row :18 - Processing item.
+08-31-2023 @ 20:24:17 - Found simple product object. ID:1387
+08-31-2023 @ 20:24:17 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ParisSofaSleeper-Image15_1800x1800.jpg
+08-31-2023 @ 20:24:17 - Attachment ID:1388
+08-31-2023 @ 20:24:17 - Setting Gallery Images.
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ParisSofaSleeper-image5_1800x1800.jpg
+08-31-2023 @ 20:24:17 - Attachment ID:1389
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ParisSofaSleeper-image4_1800x1800.jpg
+08-31-2023 @ 20:24:17 - Attachment ID:1390
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ParisSofaSleeper-image2_1800x1800.jpg
+08-31-2023 @ 20:24:17 - Attachment ID:1391
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ParisSofaSleeper-image3_1800x1800.jpg
+08-31-2023 @ 20:24:17 - Attachment ID:1392
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ParisSofaSleeper-image1_1800x1800.jpg
+08-31-2023 @ 20:24:17 - Attachment ID:1393
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/ParisSofaSleeper-Image16_1800x1800.jpg
+08-31-2023 @ 20:24:17 - Attachment ID:1394
+08-31-2023 @ 20:24:17 - Row :18 - Product imported successfully.
+08-31-2023 @ 20:24:17 - Row :19 - Parsing item.
+08-31-2023 @ 20:24:17 - Importing as new product ID:1395
+08-31-2023 @ 20:24:17 - Row :19 - Processing item.
+08-31-2023 @ 20:24:17 - Found simple product object. ID:1395
+08-31-2023 @ 20:24:17 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Callas_3_1800x1800.jpg
+08-31-2023 @ 20:24:17 - Attachment ID:1396
+08-31-2023 @ 20:24:17 - Setting Gallery Images.
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Callas_2_1800x1800.jpg
+08-31-2023 @ 20:24:17 - Attachment ID:1397
+08-31-2023 @ 20:24:17 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Callas_Kathy_Ireland_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1398
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Callas_6_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1399
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Callas_Sleeper_KathyIreland__2_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1400
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Callas_5-1536x1024_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1401
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Callas_Sleeper_KathyIreland_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1402
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Callas_Sleeper_KathyIreland__3_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1403
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Kathy-Ireland_BG_Web_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1404
+08-31-2023 @ 20:24:18 - Row :19 - Product imported successfully.
+08-31-2023 @ 20:24:18 - Row :20 - Parsing item.
+08-31-2023 @ 20:24:18 - Importing as new product ID:403
+08-31-2023 @ 20:24:18 - Row :20 - Processing item.
+08-31-2023 @ 20:24:18 - Found simple product object. ID:403
+08-31-2023 @ 20:24:18 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Luonto_West_Power_SA0000_Room_Closed_Medium_59152c8a-eaa6-4b71-9dd1-c505883248aa_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1405
+08-31-2023 @ 20:24:18 - Setting Gallery Images.
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/West_IMG_1266_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1406
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/West_IMG_1265_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1407
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/West_IMG_1263_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1408
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/West_IMG_1264_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1409
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/West_IMG_1257_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1410
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/West_IMG_1256_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1411
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/West_IMG_1252_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1412
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/West_IMG_1254_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1413
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/West_IMG_1255_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1414
+08-31-2023 @ 20:24:18 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/Luonto_West_Power_SA0000_Room_Open_Medium_492781e1-8460-4d35-b9bf-b0f62ff35254_1800x1800.jpg
+08-31-2023 @ 20:24:18 - Attachment ID:1415
+08-31-2023 @ 20:24:19 - Row :20 - Product imported successfully.
+08-31-2023 @ 20:24:21 - Preparing for import.
+08-31-2023 @ 20:24:21 - Row :21 - Parsing item.
+08-31-2023 @ 20:24:21 - Importing as new product ID:1416
+08-31-2023 @ 20:24:21 - Row :21 - Processing item.
+08-31-2023 @ 20:24:21 - Found simple product object. ID:1416
+08-31-2023 @ 20:24:21 - Setting Featured Image. URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/CavourMansionItalianLeatherSectional-image-9_1800x1800.jpg
+08-31-2023 @ 20:24:21 - Attachment ID:1417
+08-31-2023 @ 20:24:21 - Setting Gallery Images.
+08-31-2023 @ 20:24:21 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/CavourMansionItalianLeatherSectional-image-5_1800x1800.jpg
+08-31-2023 @ 20:24:21 - Attachment ID:1418
+08-31-2023 @ 20:24:21 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/CavourMansionItalianLeatherSectional-image-4_1800x1800.jpg
+08-31-2023 @ 20:24:21 - Attachment ID:1419
+08-31-2023 @ 20:24:21 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/CavourMansionItalianLeatherSectional-image-3_1800x1800.jpg
+08-31-2023 @ 20:24:21 - Attachment ID:1420
+08-31-2023 @ 20:24:21 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/CavourMansionItalianLeatherSectional-image-1_1800x1800.jpg
+08-31-2023 @ 20:24:21 - Attachment ID:1421
+08-31-2023 @ 20:24:21 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/CavourMansionItalianLeatherSectional-image-2_1800x1800.jpg
+08-31-2023 @ 20:24:21 - Attachment ID:1422
+08-31-2023 @ 20:24:21 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/CavourMansionItalianLeatherSectional-image-7_1800x1800.jpg
+08-31-2023 @ 20:24:21 - Attachment ID:1423
+08-31-2023 @ 20:24:21 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/CavourMansionItalianLeatherSectional-image-6_1800x1800.jpg
+08-31-2023 @ 20:24:21 - Attachment ID:1424
+08-31-2023 @ 20:24:21 - Image URL:https://sofafreedom.furniture/wp-content/uploads/2022/09/CavourMansionItalianLeatherSectional-image-8_1800x1800.jpg
+08-31-2023 @ 20:24:21 - Attachment ID:1425
+08-31-2023 @ 20:24:21 - Row :21 - Product imported successfully.
+08-31-2023 @ 20:24:21 - ---[ Import ended at 2023-08-31 20:24:21]---

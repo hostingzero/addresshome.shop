@@ -1,11 +1,11 @@
 === Templately - Templates Cloud for Elementor & Gutenberg : 4000+ Free & Premium Designs! ===
-Contributors: templately, wpdevteam, re_enter_rupok, Asif2BD, priyomukul, rahat89, shadab109
+Contributors: templately, wpdevteam, re_enter_rupok, Asif2BD, priyomukul, rahat89
 Donate link: https://templately.com
 Tags: Elementor, template, templates, Gutenberg, template kits, elementor template, Gutenberg template, block pattern, blocks, layouts, patterns, Website Design, design, Responsive Layouts, landing page, page, section
 Requires at least: 5.0
-Tested up to: 6.2
+Tested up to: 6.3
 Requires PHP: 5.6
-Stable tag: 2.2.2
+Stable tag: 2.2.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -133,6 +133,13 @@ Yes, We have many free templates for Elementor & Gutenberg that you can use to b
 
 
 == Changelog ==
+
+= 2.2.4 - 30-08-2023 =
+Fixed: PHP 7.2 Compatibility Issue
+Few minor bug fixes and improvements.
+
+= 2.2.3 - 28-08-2023 =
+Few minor bug fixes and improvements.
 
 = 2.2.2 - 26-07-2023 =
 Fixed: Login Issue for certain users
@@ -380,7 +387,7 @@ Few minor bug fix and improvements
 
 = 0.1.2 - 15-03-2020 =
 
-* Improved : Signupflow
+* Improved : Signup flow
 * Few minor bugfix and improvement
 
 = 0.1.0 - 11-03-2020 =

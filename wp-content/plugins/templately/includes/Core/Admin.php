@@ -187,7 +187,7 @@ class Admin extends Base {
 				'upsale',
 				wp_sprintf(
 					'<p>%1$s <a target="_blank" href="%3$s">%2$s</a>.</p>',
-					__('🔥 Get access to 4,000+ Ready Templates & save up to 70% OFF now', 'templately'),
+					__('🔥 Get access to 4,000+ Ready Templates & save up to 65% OFF now', 'templately'),
 					__('Upgrade to Pro', 'templately'),
 					'https://templately.com/#pricing'
 				),

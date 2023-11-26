@@ -14,6 +14,10 @@ class Login extends API {
             return true;
         }
 
+        if ( '/templately/v1/pricing' === $_route ) {
+            return true;
+        }
+
         return parent::permission_check( $request );
     }
 
@@ -21,7 +25,26 @@ class Login extends API {
         $this->post( 'login', [$this, 'login'] );
         $this->post( 'logout', [$this, 'logout'] );
         $this->get( 'is-signed', [$this, 'is_signed'] );
+        $this->get( 'pricing', [$this, 'pricing'] );
     }
+
+	public function pricing(){
+		$data = get_transient( "templately_subscriptions" );
+
+		if( is_array( $data ) && ! empty( $data ) ) {
+			return $data;
+		}
+
+		$query = 'id, price, name, discounted_price, type, sites';
+		$response = $this->http()->query(
+			'subscriptionPlans',
+			$query
+		)->post();
+
+		set_transient( "templately_subscriptions", $response, WEEK_IN_SECONDS );
+
+		return $response;
+	}
 
     public function login() {
         $errors    = [];
